@@ -16,7 +16,6 @@ dense feature matching, structure-from-motion, and 3D Gaussian Splatting.
 
 ## News
 
-- **2026.09** — Code, models and project pages released for **SCCM** and **PDIGS**
 - **2026.09** — **SCCM** accepted to **ACCV 2026**
 - **2026.07** — **PRISM-SLAM** presented at the ICML 2026 SPIGM Workshop
 - **2025.04** — **Oral** presentation at ISPRS Geospatial Week 2025
