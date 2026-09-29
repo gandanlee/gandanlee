@@ -16,9 +16,9 @@ dense feature matching, structure-from-motion, and 3D Gaussian Splatting.
 
 ## News
 
-- **2026.09** — **SCCM** accepted to **ACCV 2026**
-- **2026.07** — **PRISM-SLAM** presented at the ICML 2026 SPIGM Workshop
-- **2025.04** — **Oral** presentation at ISPRS Geospatial Week 2025
+- **2026.09** — **SCCM** accepted to **ACCV 2026** (Osaka, Japan)
+- **2026.07** — **PRISM-SLAM** presented at the ICML 2026 SPIGM Workshop (Seoul, Korea)
+- **2025.04** — **Oral** presentation at ISPRS Geospatial Week 2025 (Dubai, UAE)
 
 ## Publications
 
@@ -28,7 +28,7 @@ dense feature matching, structure-from-motion, and 3D Gaussian Splatting.
 <td valign="middle">
 <b>SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence</b><br>
 <b><u>Gyeonggwan Lee</u></b>, Eunsoo Im, Seunghwan Hong, Junghun Suh<br>
-<b><i>ACCV 2026</i></b><br>
+<b><i>ACCV 2026</i></b> · Osaka, Japan<br>
 <a href="https://gandanlee.github.io/sccm/">Project</a> | <a href="https://github.com/gandanlee/sccm">Code</a> | <a href="https://huggingface.co/gandan-lee/sccm">Models</a><br><br>
 Corrects the topological, metric and area distortions of 360° images inside coarse matching.
 </td>
@@ -38,14 +38,14 @@ Corrects the topological, metric and area distortions of 360° images inside coa
 <td valign="middle">
 <b>Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization</b><br>
 <b><u>Gyeonggwan Lee</u></b>, Seunghwan Hong, Junghun Suh<br>
-<b><i>ISPRS Geospatial Week 2025</i></b> · <b>Oral</b><br>
+<b><i>ISPRS Geospatial Week 2025</i></b> · Dubai, UAE · <b>Oral</b><br>
 <a href="https://gandanlee.github.io/pdigs/">Project</a> | <a href="https://github.com/gandanlee/pdigs">Code</a> | <a href="https://huggingface.co/gandan-lee/pdigs">Models</a> | <a href="https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-891-2025">Paper</a><br><br>
 Regularizes 3DGS with surface-normal and dense-depth priors for cleaner geometry.
 </td>
 </tr>
 </table>
 
-- **PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM** — Eunsoo Im, <u>Gyeonggwan Lee</u>, Seunghwan Hong, Junghun Suh · *ICML 2026 Workshop (SPIGM)* · [arXiv](https://arxiv.org/abs/2605.19257)
+- **PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM** — Eunsoo Im, <u>Gyeonggwan Lee</u>, Seunghwan Hong, Junghun Suh · *ICML 2026 Workshop (SPIGM)*, Seoul, Korea · [arXiv](https://arxiv.org/abs/2605.19257)
 
 ## Tools
 
