@@ -29,7 +29,7 @@ dense feature matching, structure-from-motion, and 3D Gaussian Splatting.
 <b>SCCM: Spherically Consistent Coarse Matching for ERP Dense Feature Correspondence</b><br>
 <b><u>Gyeonggwan Lee</u></b>, Eunsoo Im, Seunghwan Hong, Junghun Suh<br>
 <b><i>ACCV 2026</i></b> · Osaka, Japan<br>
-<a href="https://gandanlee.github.io/sccm/">Project</a> | <a href="https://github.com/gandanlee/sccm">Code</a> | <a href="https://huggingface.co/gandan-lee/sccm">Models</a><br><br>
+<a href="https://arxiv.org/abs/2609.36545">arXiv</a> | <a href="https://gandanlee.github.io/sccm/">Project</a> | <a href="https://github.com/gandanlee/sccm">Code</a> | <a href="https://huggingface.co/gandan-lee/sccm">Models</a><br><br>
 Corrects the topological, metric and area distortions of 360° images inside coarse matching.
 </td>
 </tr>
@@ -39,7 +39,7 @@ Corrects the topological, metric and area distortions of 360° images inside coa
 <b>Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization</b><br>
 <b><u>Gyeonggwan Lee</u></b>, Seunghwan Hong, Junghun Suh<br>
 <b><i>ISPRS Geospatial Week 2025</i></b> · Dubai, UAE · <b>Oral</b><br>
-<a href="https://gandanlee.github.io/pdigs/">Project</a> | <a href="https://github.com/gandanlee/pdigs">Code</a> | <a href="https://huggingface.co/gandan-lee/pdigs">Models</a> | <a href="https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-891-2025">Paper</a><br><br>
+<a href="https://arxiv.org/abs/2609.36969">arXiv</a> | <a href="https://gandanlee.github.io/pdigs/">Project</a> | <a href="https://github.com/gandanlee/pdigs">Code</a> | <a href="https://huggingface.co/gandan-lee/pdigs">Models</a> | <a href="https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-891-2025">Paper</a><br><br>
 Regularizes 3DGS with surface-normal and dense-depth priors for cleaner geometry.
 </td>
 </tr>
